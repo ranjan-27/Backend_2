@@ -1,9 +1,14 @@
 # Backend_2
 
-# 🛠️ Backend API  Node.js + Express API with MongoDB and JWT auth. Built during my internship. 
+📌 Auth API – Secure Backend with MongoDB & JWT  
+A RESTful API built with Node.js and Express.js to handle user authentication, registration, and role-based access using MongoDB.
 
-## 🔧 Stack Node.js | Express | MongoDB | JWT
+This project helped me learn how to implement secure login systems and protect routes using tokens.
 
-## 🚀 Features - User form (name, email, age) - Register/Login - JWT auth &amp; role-based access  
-
-## ▶️ Run - `npm install` - Add `.env` - `npm start`
+🛠️ Tech Stack  
+Node.js  
+Express.js  
+MongoDB  
+Mongoose  
+JWT (JSON Web Token)  
+Postman (for testing)
